@@ -1,0 +1,12 @@
+<templateSet group="JavaScript">
+  <template name="log" value="window.console.log($END$);" description="Inserts define() expression" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="()" value="($END$) =&gt; {   &#10;}" description="快速写es6箭头函数" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

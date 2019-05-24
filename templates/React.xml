@@ -1,0 +1,14 @@
+<templateSet group="React">
+  <template name="props" value="const { $END$ } = this.props;" description="使用es6结构props变量" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="state" value="const { $END$ } = this.state;" description="使用es6结构state变量" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="rccjss" value="import React, { Component } from 'react';&#10;import injectSheet from &quot;react-jss&quot;;&#10;import style from &quot;./index.jss&quot;;&#10;&#10;interface IProps {&#10;   classes: any;&#10;}&#10;&#10;class $TM_FILENAME_BASE$ extends Component&lt;IProps&gt;{&#10;&#10;  constructor(props) {&#10;    super(props);&#10;  }&#10;&#10;  public static defaultProps = {&#10;&#10;  };&#10;&#10;  public render() {&#10;    return &lt;div&gt;$END$&lt;/div&gt;;&#10;  }&#10;}&#10;&#10;export default injectSheet(style)($TM_FILENAME_BASE$);&#10;" description="快速创建ts写法的jss包裹react类组件，并导出类。" toReformat="false" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
