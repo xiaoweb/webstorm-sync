@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="wxss" type="CSS" />
+      <mapping ext="mcss" type="CSS" />
+      <mapping ext="wxml" type="HTML" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="mcss" type="PLAIN_TEXT" />
+      <mapping pattern="addNodeBtn" type="PLAIN_TEXT" />
+      <mapping ext="jss" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="wpy" type="Vue.js" />
+      <mapping ext="php" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>

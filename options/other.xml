@@ -1,0 +1,74 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="8808" builtInServerAvailableExternally="true" allowUnsignedRequests="true" />
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="8.10.0" last-modified="1539778904000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/8.9.1/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.95028406" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.43233082" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="TypeScriptReact" />
+    <property name="InstalledPluginsSearchHistory" value="mobx" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JSON5" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="Live Templates&#10;Emmet&#10;key&#10;log&#10;type" />
+    <property name="TrendingPluginsSearchHistory" value="mo&#10;keymap" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt.183" value="167fcfaedf8" />
+    <property name="evlsprt2.183" value="167ba299184" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="export.settings.path" value="$USER_HOME$/config/settings.zip" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/enterprise-loktar-data-flow-fe/src/views/data-flow/detail/nodes/transform/functionExpression/index.ts&#10;/home/zhou/ap-portal-fe&#10;/home/zhou/wg-client-wechat&#10;/home/zhou/下载/ubuntu-settings.jar" />
+    <property name="file.gist.reindex.count" value="36344" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="find.popup.splitter" value="0.6455696" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://192.168.1.36/Mall" />
+        <option value="svn://192.168.1.36/CDN" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://192.168.1.36/Mall" />
+        <option value="svn://192.168.1.36/CDN" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\SlikSvn\bin\svn.exe" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="Mobile Html" />
+            <item index="1" class="java.lang.String" itemvalue="Css" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
